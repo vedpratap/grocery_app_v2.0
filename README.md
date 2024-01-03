@@ -8,7 +8,7 @@
 
 ### About App
 
-Grocery Store v2 a multi-user app (one required `admin` and other users [`Store Managers` & `Buyers`]) used for buying and selling products.
+Grocery Store v2 is a multi-user app (one required `admin` and other users [`Store Managers` & `Buyers`]) used for buying and selling products.
 
 ### Features
 
